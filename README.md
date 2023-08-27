@@ -80,6 +80,64 @@
 | D     | "Toggle use of procedural eye darts"      |   ? |
 | Ctrl + D     | "Trigger Dirty Disc Error"      |   ? |
 | Alt + D     | "Toggle Development Menu"      |   ? |
+| e     | "Toggle depth buffer displays"      |   ? |
+| Alt + e     | "Toggle swipe detection debug overlay"      |   ? |
+| Ctrl + e     | "Toggles on/off visual debugging of eye interest object system"      |   ? |
+| E     | "Toggle depth buffer displays"      |   ? |
+| f     | "Fake player 2 skeleton"      |   ? |
+| Ctrl + F     | Cycle active fake shell skeletons"      |   ? |
+| Ctrl + f     | "Toggle move detection overlay"      |   ? |
+| Alt + f     | "Toggle per-limb feedback"      |   ? |
+| Ctrl + Alt + f     | "Toggle pose fatalities"      |   ? |
+| Ctrl + Alt + F     | "Restart pose fatalities after finish"      |   ? |
+| F     | "Cycle Free Camera"      |   ? |
+| g     | "Fake player 1 skeleton"      |   ? |
+| Ctrl + g     | "Cycle gameplay cams"      |   ? |
+| Alt + g     | "Hide/show Bustamove recording ghost"      |   ? |
+| G     | "Print faders"      |   ? |
+| Ctrl + G     | "Swap fake skeleton sides"      |   ? |
+| h     | "Toggle HUD"      |   ? |
+| Alt + h     |  "Upload fake partylists to RC for the current active profile."      |   ? |
+| H     | "High five!"      |   ? |
+| Ctrl + H     | "Reload hud/gameplay scripts and milo files"      |   ? |
+| Ctrl + Alt + h     | "Print HamProvider messages"      |   ? |
+| i     | "Force INTRO_QUICK camshot"      |   ? |
+| Ctrl + i     | "Toggle eye debug overlay"      |   ? |
+| Alt + i     | "Show final pose effect"      |   ? |
+| I     | "buy dc1 import pack"      |   ? |
+| Alt + I     | "buy dc2 import pack"      |   ? |
+| Ctrl + Alt + I     | "buy dc2 proof of purchase"      |   ? |
+| j     | "Dump scoring stats"      |   ? |
+| Ctrl + j     | "Toggle use of eye jitter in lookats"      |   ? |
+| J     | "Send a SmartGlass message to all clients"      |   ? |
+| k     | "Show/hide last Known Issues display"      |   ? |
+| Ctrl + k     | "Allow Known Issues display"      |   ? |
+| Ctrl + Alt + k     | "Burn 100 calories"      |   ? |
+| K     | "Toggle HAQ Printouts"      |   ? |
+| l     | "Toggle loop visualization"      |   ? |
+| Alt + l     | "Toggles blocking of RockCentral login on/off"      |   ? |
+| L     | "Toggle audio levels"      |   ? |
+| m     | "Toggle metronome"      |   ? |
+| Ctrl + m     | "Game: Toggle midi audio"      |   ? |
+| Alt + m     | "Get latest strings from Magnu"      |   ? |
+| Ctrl + m     | "Game: Toggle crowd meter/Meta: Mute shell music"      |   ? |
+| M     | "Toggle mutes all"      |   ? |
+| Ctrl + M     | "Toggle motd cheat"      |   ? |
+| n     | "Cycle notify level"      |   ? |
+| N     | "Toggle Natal autoexposure"      |   ? |
+| Ctrl + n     | "Toggle finale"      |   ? |
+| Alt + n     | "Toggle always nag"      |   ? |
+| Ctrl + N     | "Increase nag count"      |   ? |
+| Ctrl + Alt + N     | "Reset nags"      |   ? |
+| o     | "Toggle Post Proc overlay"      |   ? |
+| O     | "Print the symbol table"      |   ? |
+| Alt + o     | "Lower depth alpha threshold"      |   ? |
+| Ctrl + o     | "Raise depth alpha threshold"      |   ? |
+| Alt + p     | "Toggle all postprocess effects"      |   ? |
+| P     | "Toggle profiles overlay"      |   ? |
+| q     | "Print Current Screen"      |   ? |
+| Ctrl + q     | "Toggle shuffling OMG moves"      |   ? |
+
 
 
 
