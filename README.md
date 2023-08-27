@@ -9,5 +9,7 @@
 | Right Dpad + X   | "Print Current Screen"      |    ? |
 
 ## Keyboard Binds
+
 | Button           | Function      | ifndef?  | Works?  |
+| ------------- |:-------------:| -----:| -----:|
 | Alt + Tilde      | "HAQ display all"      |   ? |   ? |
