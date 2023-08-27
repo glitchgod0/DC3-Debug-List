@@ -10,4 +10,4 @@
 
 ## Keyboard Binds
 | Button           | Function      | ifndef?  | Works?  |
-| Alt + `      | "HAQ display all"      |   ? |   ? |
+| Alt + Tilde      | "HAQ display all"      |   ? |   ? |
