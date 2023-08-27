@@ -1,6 +1,5 @@
 # DC3 Debug List
  
-{| class="colortable colortable-extra-padding sortable"
 |+
 !Name
 !Status
