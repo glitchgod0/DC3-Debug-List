@@ -1,28 +1,55 @@
 # DC3 Debug List
  
-|+
-!Name
-!Status
-!Notes
+{| class="wikitable"
+|+ DLC Setlist
 |-
-|#unplayable
-|[[#red|Unplayable]]
-| For games that do not work.
+! Song Name !! Artist
 |-
-|#intro
-|[[#intro|Intro]] 
-| For games that will not progress past the boot screens or menus. 
+| Bark at the Moon || Ozzy Osbourne
 |-
-|#ingame
-|[[#ingame|In-game]]
-| For games that you can actually play with issues.
+| Hey You || The Exies
 |-
-|#playable
-|[[#playable|Playable]]
-| For games with very minor or no issues.
+| Ace of Spades || Motörhead
 |-
-|#untested
-|[[#untested|Untested]]
-| For untested games.
+| Killer Queen || Queen
 |-
+| Take It Off || The Donnas
+|-
+| Frankenstein || The Edgar Winter Group
+|-
+| Higher Ground || Red Hot Chilli Peppers
+|-
+| Infected || Bad Religion
+|-
+| Stellar || Incubus
+|-
+| I Wanna Be Sedated || The Ramones
+|-
+| Smoke on the Water || Deep Purple
+|-
+| You've Got Another Thing Comin' || Judas Priest
+|-
+| Famous Last Words ||  My Chemical Romance
+|-
+| Teenagers || My Chemical Romance
+|-
+| This Is How I Disappear || My Chemical Romance
+|-
+| Detonation || Trivium
+|-
+| Ex's and Oh's || Atreyu
+|-
+| Bury the Hatchet || Protest the Hero
+|-
+| Sin Documentos || Los Rodriguez
+|-
+| Sept || Pleymo
+|-
+| Exile || Soilwork
+|-
+| The State of Massachusetts || Dropkick Murphys
+|-
+| You Should Be Ashamed of Myself || The Bled
+|-
+| Memories of the Grove || Maylene and the Sons of Disaster
 |}
