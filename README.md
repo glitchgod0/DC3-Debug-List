@@ -137,6 +137,78 @@
 | P     | "Toggle profiles overlay"      |   ? |
 | q     | "Print Current Screen"      |   ? |
 | Ctrl + q     | "Toggle shuffling OMG moves"      |   ? |
+| Q     | "Toggle Credits Autoscroll"      |   ? |
+| r     | "Toggle Framerate"      |   Y |
+| Ctrl + r     | "Game: Reset Detection"      |   ? |
+| Alt + r     | "Game: Toggle Song Recording"      |   ? |
+| Alt + R     | "Game: Toggle Song Recording for both players"      |   ? |
+| Ctrl + R     | "Use Restart as the default option in the end game screens"      |   ? |
+| s     | "Toggle Skeleton Drawing"      |   ? |
+| Ctrl + s     | "Cycle stub skeletons"      |   ? |
+| Alt + s     | "Toggle between 30 and 60 frames per second"      |   ? |
+| Ctrl + s     | "Tilt the camera to scan the player"      |   ? |
+| S     | "Toggle scoring info"      |   ? |
+| Ctrl + S     | "Toggle supereasy info"      |   ? |
+| Ctrl + Alt + S     | "Skip Crew Throwdown step (crew select or crew photo)"      |   ? |
+| t     | "Toggle time overlay"      |   ? |
+| Ctrl + t     | "Toggle mip mode"      |   ? |
+| Alt + t     | "Hi-reZ screen shot"      |   ? |
+| T     | "Toggle profiling timers"      |   ? |
+| Ctrl + T     | "Toggle Show Tokens"      |   ? |
+| u     | "Toggle fullscreen camera/skeleton debug drawing"      |   ? |
+| Ctrl + u     | "Toggle threaded skeleton update"      |   ? |
+| U     | "Toggle UI load times"      |   ? |
+| v     | "Venue preference cycle"      |   ? |
+| V     | "Turn on verb barks"      |   ? |
+| Ctrl + v     | "toggle VO spew"      |   ? |
+| w     | "Win the game"      |   ? |
+| Alt + w     | "Wave to turn on the light in the venue"      |   ? |
+| Ctrl + w     | "Choose BustAMove final sequence"      |   ? |
+| x     | "Show skeleton identification debug"      |   ? |
+| Ctrl + x     | "Show skeleton chooser debug"      |   ? |
+| Alt + x     | "Toggle Kinect autoexposure"      |   ? |
+| X     | "Toggle shuttle"      |   ? |
+| Alt + X     | "Disable skeleton identification"      |   ? |
+| y    | "Toggle fake leaderboard upload failure"      |   ? |
+| Ctrl + y    | "Toggle on character feedback"      |   ? |
+| Y    | "Game: Toggle mute master fader"      |   ? |
+| z    | "Toggle showing world"      |   ? |
+| Ctrl + z    | "Toggle pause on skeleton loss"      |   ? |
+| Z    | "Print the particle pool size"      |   ? |
+| +    | "Toggle Store Metadata Index"      |   ? |
+| F5    | "screen capture the kinect depth buffer"      |   ? |
+| Ctrl + F5    | "Fake 'xbox' voice command"      |   ? |
+| Ctrl + F6    | "Fake 'xbox previous' voice command"      |   ? |
+| Ctrl + F7    | "Fake 'xbox skip' voice command"      |   ? |
+| Ctrl + F8    | "Slow down in rehearse"      |   ? |
+| Ctrl + F9    | "Speed up in rehearse"      |   ? |
+| '    | "Win with 0 stars"      |   ? |
+| !    | "Win with 1 star"      |   ? |
+| @    | "Win with 2 stars"      |   ? |
+| #    | "Win with 3 stars"      |   ? |
+| $    | "Win with 4 stars"      |   ? |
+| %    | "Win with 5 stars"      |   ? |
+| ^    | "Win with 6 stars"      |   ? |
+| <    | "Jump backward a bit in time"      |   ? |
+| Up Arrow    | "Double song speed / Paused: increase vocal pitch window size"      |   ? |
+| Down Arrow    | "Halve song speed / Paused: decrease vocal pitch window size"      |   ? |
+| Left Arrow    | "Rewind back in time 3 seconds"      |   ? |
+| Ctrl + Up Arrow    | "Fast forward to song end minus 10 seconds"      |   ? |
+| Ctrl + Down Arrow    | "Fast forward to song end minus 20 seconds"      |   ? |
+| Right Arrow    | "Fast forward in time 3 seconds"      |   ? |
+| Ctrl + Right Arrow    | "Rotate Debug Skeleton drawing by 90 degrees"      |   ? |
+| Enter    | "Skills - skip to next section/ Multiplayer - skip to end of section"      |   ? |
+| :    | "Toggle pink error shaders"      |   ? |
+| Alt + [    | "Previous performance level"      |   ? |
+| Alt + ]    | "Next performance level"      |   ? |
+| >    | "Toggle Language"      |   ? |
+| \\    | "Sync and reload locale files"      |   ? |
+| ?    | Switch camera area"      |   ? |
+| Space    | "Show next camera output (RGB/depth/off)"      |   ? |
+| Alt + Space    | "Toggle player visualizer"      |   ? |
+
+
+
 
 
 
