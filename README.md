@@ -1,7 +1,7 @@
 # DC3 Debug List
 
 ## Info
- This list is to simplify the command list of the Dance Central 3 August 29th beta, instead of looking at cheats.dta which can be found [here.](https://github.com/glitchgod0/DC3-Debug-List/blob/main/cheats.dta).
+ This list is to simplify the command list of the Dance Central 3 August 29th beta, instead of looking at cheats.dta which can be found [here.](https://github.com/glitchgod0/DC3-Debug-List/blob/main/cheats.dta)
 ## Controller Binds
 
 | Button           | Function      | Works?  |
