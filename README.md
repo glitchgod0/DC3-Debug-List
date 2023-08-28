@@ -1,20 +1,31 @@
 # DC3 Debug List
 
 ## Info
- This list is to simplify the command list of the Dance Central 3 August 29th beta, instead of looking at cheats.dta which can be found [here.](https://github.com/glitchgod0/DC3-Debug-List/blob/main/cheats.dta)
+ This list is to document the command list of the Dance Central 3 August 29th beta. All info was sourced from the Cheats menu up to "B - Game: Toggle Boombox" as the game crashes when trying to load the "Toggle Speech Recognition" option. After that the info is sourced from cheats.dta which can be found [here.](https://github.com/glitchgod0/DC3-Debug-List/blob/main/cheats.dta)
 ## Controller Binds
 
 | Button           | Function      | Works?  |
 | ------------- |:-------------:| -----:|
-| Left Dpad + Y      | "Game: Cycle Free Camera / Splash: Goto Framerate Test / Framerate Test: Restart" | ? |
-| Left Dpad + RT      | "HAQ display all"      |   ? |
-| Right Dpad + X   | "Print Current Screen"      |    ? |
+| LB + LT + Y      | "Game: Cycle Free Camera / Splash: Goto Framerate Test / Framerate Test: Restart" | ? |
+| LB + LT + RT      | "HAQ display all" | ? |
+| LB + LT + DLeft      | "Heap Summary" | ? |
+| LB + LT + DUp      | "Toggle Framerate" | ? |
+| LB + LT + DDown      | "Toggle Framerate" | ? |
+| LB + LT + Select      | "Print Symbol Table" | ? |
+| LB + LT + B      | "Toggle Stats" | ? |
+| LB + LT + A      | "Toggle Timers" | ? |
+| LB + LT + X      | "Toggle Heap" | ? |
+| LB + LT + Start      | "Toggle Synth HUD" | ? |
+| LB + LT + L3      | "Show Cheats" | ? |
+| LB + LT + R3      | "Hi-reZ screen shot" | ? |
+| RB + RT + X      | "Print Current Screen" | ? |
+
 
 ## Keyboard Binds
 
 | Button           | Function      | Works?  |
 | ------------- |:-------------:| -----:|
-| Alt + Tilde      | "HAQ display all"      |   ? |
+| Alt + Tilde      | "Toggle fake file errors"      |   ? |
 | F2      | "Fake a signout change on controller 1"      |   ? |
 | F3      | "Fake a signout change on controller 2"      |   ? |
 | F4      | "Fake a signout change on controller 3"      |   ? |
