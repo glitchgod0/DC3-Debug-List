@@ -10,8 +10,8 @@
 | LB + LT + RT      | "HAQ display all" | ? |
 | LB + LT + DLeft      | "Heap Summary" | ? |
 | LB + LT + DUp      | "Toggle Framerate" | ? |
-| LB + LT + DDown      | "Toggle Framerate" | ? |
-| LB + LT + Select      | "Print Symbol Table" | ? |
+| LB + LT + DDown      | "Print Symbol Table" | ? |
+| LB + LT + Select      | "Screen Dump"  | ? |
 | LB + LT + B      | "Toggle Stats" | ? |
 | LB + LT + A      | "Toggle Timers" | ? |
 | LB + LT + X      | "Toggle Heap" | ? |
